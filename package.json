@@ -13,10 +13,12 @@
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "@types/axios": "^0.14.0",
+    "@types/react-icons": "^3.0.0",
     "axios": "^1.4.0",
     "framer-motion": "^10.16.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.7.1"
   },
   "devDependencies": {
     "@types/react": "^18.0.27",
